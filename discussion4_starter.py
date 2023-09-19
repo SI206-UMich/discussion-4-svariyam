@@ -47,6 +47,8 @@ class Rectangle():
 # It first verifies inputs and return "Invalid input" if they are invalid.
 # Otherwise, it returns the perimeter of the rectangle.
 # YOUR CODE HERE
+#committed 2 times
+#committed 3 times
 
     def perimeter(self):
         if self.verify_input():
